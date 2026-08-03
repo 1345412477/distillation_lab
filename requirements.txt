@@ -1,0 +1,11 @@
+PyQt6>=6.5.0
+pyqtgraph>=0.13.0
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+peft>=0.6.0
+modelscope>=1.0.0
+huggingface_hub>=0.23.0
+bitsandbytes>=0.43.0
+safetensors>=0.4.0
+pillow>=10.0.0

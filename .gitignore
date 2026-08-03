@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# 虚拟环境
+.venv/
+venv/
+app_env/
+runtime_py/
+env/
+
+# 构建产物
+build/
+build_installer/
+build_lite/
+*.spec
+dist/
+
+# 运行时数据（数据库/实验输出/日志/模板）
+data/
+
+# 日志与崩溃报告
+*.log
+startup_error.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统
+Thumbs.db
+Desktop.ini
+*.lnk
